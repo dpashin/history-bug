@@ -1,0 +1,11 @@
+{
+	"name": "history-bug",
+	"version": "1.0.0",
+	"license": "WTFPL",
+	"description": "history bug",
+	"repository": "git@github.com:dpashin/history-bug.git",
+	"dependencies": {
+		"html5-history-api": "^4.2.7",
+		"webpack": "^2.2.1"
+	}
+}
